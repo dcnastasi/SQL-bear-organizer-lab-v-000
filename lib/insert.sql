@@ -6,4 +6,4 @@ VALUES (1, "Mr. Chocolate", 1, "male", "black", "happy", true),
 (5, "Melissa", 1, "male", "black", "happy", true),
 (6, "Grinch", 1, "male", "black", "happy", true),
 (7, "Wendy", 1, "male", "black", "happy", true),
-(8, NULL, 1, "male", "black", "happy", true),
+(8, NULL, 1, "male", "black", "happy", true);
